@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">splashsicon-ariel</string>
+    <string name="title_activity_main">splashsicon-ariel</string>
+    <string name="package_name">com.myapp.splashsiconnariel</string>
+    <string name="custom_url_scheme">com.myapp.splashsiconnariel</string>
+</resources>
